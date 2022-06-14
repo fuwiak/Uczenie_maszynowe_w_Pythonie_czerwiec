@@ -16,8 +16,8 @@ https://paper.dropbox.com/doc/Wstep-do-uczenia-maszynowego-czerwiec--BjWTlkbwr1_
 [https://colab.research.google.com/drive/1pxj1kZwyETFlJh8Mr72Q-s7nmGm_G5Aw?authuser=1](https://colab.research.google.com/drive/1pxj1kZwyETFlJh8Mr72Q-s7nmGm_G5Aw?usp=sharing)
 
 # Regresja logistyczna
-
-[https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sharing](https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sharing)
+[
+[https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sharing](https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sharing)](https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sharing)
 
 
 # Drzewa decyzyjne Xgboost
