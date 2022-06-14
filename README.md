@@ -22,4 +22,4 @@ https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sh
 
 # Drzewa decyzyjne Xgboost
 
-https://colab.research.google.com/drive/1VVsASlhNTk4uItcjZv2jxCPkY1_QtYmX?authuser=1#scrollTo=6xPoH_ex4FMw
+https://colab.research.google.com/drive/1pflKgKfkqw_2o3T8Q5Pyh3RRSTaawl2d?usp=sharing
