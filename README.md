@@ -1,6 +1,9 @@
 # Uczenie_maszynowe_w_Pythonie_czerwiec
 
 
+https://jsystems.pl/ankiety/start.do
+
+
 #regresja rozwiazania
 
 https://colab.research.google.com/drive/1EPfR7UswITfu19BWbOw9J41hRo8G1l11?authuser=1#scrollTo=oviLgTp2CLfr
