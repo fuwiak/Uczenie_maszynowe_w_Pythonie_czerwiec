@@ -30,4 +30,4 @@ https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sh
 
 # Projekt
 
-(https://colab.research.google.com/drive/1infMHKNAsncYbLTn3FZJTayPB5ltIIQd?usp=sharing)
+https://colab.research.google.com/drive/1infMHKNAsncYbLTn3FZJTayPB5ltIIQd?usp=sharing
