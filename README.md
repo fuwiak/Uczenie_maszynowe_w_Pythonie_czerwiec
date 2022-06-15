@@ -24,3 +24,7 @@ https://colab.research.google.com/drive/1JTzOpsKG_5SIPyQVQYZsRj0P65mgRuUA?usp=sh
 
 [https://colab.research.google.com/drive/1pflKgKfkqw_2o3T8Q5Pyh3RRSTaawl2d?usp=sharing
 ](https://colab.research.google.com/drive/1pflKgKfkqw_2o3T8Q5Pyh3RRSTaawl2d?usp=sharing)
+
+# Projekt
+
+(https://colab.research.google.com/drive/1infMHKNAsncYbLTn3FZJTayPB5ltIIQd?usp=sharing)
